@@ -5,14 +5,14 @@ width: 300px;
 .lp{
 				height: 20px;
 				width: 20px;
+				
 }
 .le{
-  float: left;
-  margin-left:20px;
+  margin-left:325px;
 }
 .imagem{
-
   float: left;
+  
 }
 .coroa{
 				width: 250px;
@@ -20,8 +20,16 @@ width: 300px;
 				margin-top:10px;
 }
 .dpx{
-				margin-top:10px; 
+				margin-top:50px; 
 }
 .dpxp{
-				margin-top:10px
+				margin-top:10px;
+}
+.dq{
+				margin-right:10px;
+}
+.mpb{
+				width: 26px;
+				height: 26px;
+				
 }
