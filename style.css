@@ -1,0 +1,27 @@
+.g{
+height: 20px;
+width: 300px;
+}
+.lp{
+				height: 20px;
+				width: 20px;
+}
+.le{
+  float: left;
+  margin-left:20px;
+}
+.imagem{
+
+  float: left;
+}
+.coroa{
+				width: 250px;
+				height: 250px;
+				margin-top:10px;
+}
+.dpx{
+				margin-top:10px; 
+}
+.dpxp{
+				margin-top:10px
+}
