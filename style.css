@@ -1,22 +1,22 @@
 .g{
-height: 20px;
-width: 300px;
+height: 40px;
+width: 600px;
 }
 .lp{
-				height: 20px;
-				width: 20px;
-				
+				height: 40px;
+				width: 40px;
+				margin-top:-15px;
 }
 .le{
-  margin-left:325px;
+  margin-left:180px;
 }
 .imagem{
   float: left;
   
 }
 .coroa{
-				width: 250px;
-				height: 250px;
+				width: 500px;
+				height: 500px;
 				margin-top:10px;
 }
 .dpx{
@@ -26,10 +26,29 @@ width: 300px;
 				margin-top:10px;
 }
 .dq{
-				margin-right:10px;
+				
+				
+				margin-top:-18px;
 }
 .mpb{
-				width: 26px;
-				height: 26px;
+				width: 52px;
+				height: 52px;
 				
+}
+.espl{
+			margin-top:20px;
+}
+.espq{
+				margin-left:10px;
+}
+.escp{
+				border-color:#2b2eff;
+border-style:outset;
+font: bold 50px arial, sans-serif;
+text-shadow:none;
+background: #321531;
+color: white;
+} 
+.ep{
+width: 500px;
 }
